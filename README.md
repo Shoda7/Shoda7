@@ -39,7 +39,7 @@ Durante meu estágio, trabalhei com **SQL Server** e desenvolvimento de aplicaç
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheus-shodalima&show_icons=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Shoda7&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-shodalima&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoda7&layout=compact)
 
