@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou o **Matheus Shoda Lima**, tenho 24 anos e sou **técnico em informática** formado pelo **Colégio Técnico Industrial da UNESP Bauru**. Durante minha formação, tive a oportunidade de estagiar em **programação** com foco em **C#** na **SORRI Bauru**, onde pude aplicar meus conhecimentos em desenvolvimento de software e aprender com profissionais experientes.
+Sou o **Matheus Shoda Lima**, tenho 25 anos e sou **técnico em informática** formado pelo **Colégio Técnico Industrial da UNESP Bauru**. Durante minha formação, tive a oportunidade de estagiar em **programação** com foco em **C#** na **SORRI Bauru**, onde pude aplicar meus conhecimentos em desenvolvimento de software e aprender com profissionais experientes.
 
 Atualmente, estou cursando **Bacharelado em Sistemas de Informação** na **UNESP** e atuo como **Programador Júnior** na **Concilig**, onde fui efetivado após o estágio. Estou sempre em busca de novas oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades em programação e tecnologia da informação.
 
